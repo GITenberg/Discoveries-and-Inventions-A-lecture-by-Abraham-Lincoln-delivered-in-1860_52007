@@ -7,6 +7,9 @@ contributor:
     deathdate: 1924
     gutenberg_agent_id: '48995'
     url: http://www.gutenberg.org/2009/agents/48995
+covers:
+- cover_type: archival
+  image_path: 52007-h/images/cover.jpg
 creator:
   author:
     agent_name: Lincoln, Abraham
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3
     wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52007#Discoveries-and-Inventions-A-lecture-by-Abraham-Lincoln-delivered-in-1860
 gutenberg_issued: '2016-05-05'
 gutenberg_type: Text
 identifiers:
