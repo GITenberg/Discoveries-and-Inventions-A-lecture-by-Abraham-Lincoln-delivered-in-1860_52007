@@ -1,0 +1,36 @@
+_repo: Discoveries-and-Inventions-A-lecture-by-Abraham-Lincoln-delivered-in-1860_52007
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Coyle, Ray Frederick
+    birthdate: 1885
+    deathdate: 1924
+    gutenberg_agent_id: '48995'
+    url: http://www.gutenberg.org/2009/agents/48995
+creator:
+  author:
+    agent_name: Lincoln, Abraham
+    aliases:
+    - United States President (1861-1865)
+    - Lincoln, Abe
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '3'
+    url: http://www.gutenberg.org/2009/agents/3
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+description: ''
+gutenberg_issued: '2016-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52007'
+  lccn: '16008819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Inventions'
+- GITenberg
+title: 'Discoveries and Inventions: A lecture by Abraham Lincoln delivered in 1860'
+url: http://www.gutenberg.org/ebooks/52007
